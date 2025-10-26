@@ -1,0 +1,28 @@
+{
+  "name": "hng-stage2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryukpete1/hng-stage2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryukpete1/hng-stage2/issues"
+  },
+  "homepage": "https://github.com/maryukpete1/hng-stage2#readme",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "canvas": "^3.2.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mysql2": "^3.15.3",
+    "sequelize": "^6.37.7"
+  }
+}
